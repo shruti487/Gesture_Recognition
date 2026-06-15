@@ -1,1 +1,1 @@
-# Gesture Recognition SYstem college project
+# Gesture Recognition System Project
